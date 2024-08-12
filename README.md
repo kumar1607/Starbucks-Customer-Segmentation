@@ -1,4 +1,4 @@
----
+
 
 **Starbucks Customer Segmentation**
 
@@ -36,4 +36,4 @@ The project successfully segmented Starbucks customers into actionable clusters,
 **Model Recommendations:**  
 While the silhouette score was lower than desired, the clusters formed provided valuable insights. Future improvements could involve experimenting with alternative clustering techniques like **t-SNE** and **Gaussian Mixture Models** to enhance cluster separability and silhouette score.
 
----
+
